@@ -1,0 +1,26 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\School\Networks\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\School\Networks\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\School\Networks\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\School\Networks\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+D:\School\Networks\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.SuggestedBindingRedirects.cache
+D:\School\Networks\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\School\Networks\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\School\Networks\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Lola\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+C:\Users\Lola\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Lola\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Lola\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\Lola\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Lola\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Lola\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+F:\final final 3\Template[2021-2022]\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe.config
+F:\final final 3\Template[2021-2022]\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+F:\final final 3\Template[2021-2022]\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+F:\final final 3\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+F:\final final 3\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+F:\final final 3\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+F:\final final 3\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
